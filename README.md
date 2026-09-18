@@ -1,5 +1,5 @@
 # Global-Inflation-Analysis
-🌍 Global Inflation and Cost of Living Analysis
+# 🌍 Global Inflation and Cost of Living Analysis
 ## 📌 Introduction
 The Global Inflation and Cost of Living Analysis project explores inflation rates and cost-of-living patterns across countries and regions.
 
@@ -32,7 +32,7 @@ Findings:   The countries with the highest inflation are likely to face greater 
  
 Findings:  The correlation analysis produced a pearson correlation coefficient of -0.3212, indicating a weak negative relationship between inflation rate and cost of living.Inflation and cost of living are related, but the relationship is not necessarily positive or strong across countries. Therefore a country with high inflation does  not automatically have the highest cost.
 
-###  Correlation Matrix		
+####  Correlation Matrix		
 
 <img width="1433" height="499" alt="image" src="https://github.com/user-attachments/assets/332a015f-997a-4690-a02d-9dd1a9758867" />
 
