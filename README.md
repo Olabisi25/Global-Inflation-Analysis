@@ -52,8 +52,64 @@ Method: Cleaned Dataset, Pivot Table Analysis and Combo Chart
 
 Findings:      The analysis shows that inflation and cost of living vary across regions. Some regions record relatively high average inflation but do not necessarily have the highest cost of living index e.g. Sub - saharan Africa has 15.54% inflation rate with average cost of living index of 45.5% .  This indicates that a high current inflation does not automatically mean that a region has the highest overall cost of living.  Regional differences may be influenced by factors such as housing costs, food prices,  transportation costs, purchasing power and other  economic condition. 																			
 ## Analysis of Steps
-### Cleaning of Dataset
+### Cleaning of Dataset using Power Query
+Go to Data > Table Range
+
+Confirm my table has headers
+
+Click 'OK to open Power Query Editor
+
+#### To remove unnecessary columns
+Identify columns not needed 'n select the column
+
+Right click 'n remove columns
+
+#### To Remove duplicate records
+Select columns that identify a unique record, such  as Country + Year
+
+Go to Home 'n Remove Rows 'n Remove Duplicates
+
+#### To clean text columns
+Select the column 
+
+Go to Transform 'n Format 'n Trim
+
+Select Transform 'n Format 'n Trim
+
+#### To check errors
+Go to Home 'n Remove Rows 'n Remove Errors
+
 ### Creating Pivot Table
+Go to Data > 'Insert' on excel ribbon
+
+Click pivot table 'n choose from table/range
+
+Select New Worksheet 'n click Ok
+
 ### Performing Pivot Analysis
+Go to pivot table > pivot table field
+
+ Drag the variables for Rows 'n column 'n filer 'value
+ 
+ Sort from pivot table to analyse the variables
+ 
 ### Performing Correlation Analysis
+Go to 'Data' > 'Data Analysis'
+
+Select 'Correlation'
+
+Input the ranges for dependent and independent variables
+
+Check the label if included and choose the output range
+
+Click 'OK' to get the results
+
 ### Creating Charts and Scatter Plot
+ Click inside the pivot table
+ 
+ Go to insert 'n pivot chart
+ 
+ Choose an appropriate chart
+ 
+ Click 'OK'
+
