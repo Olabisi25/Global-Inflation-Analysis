@@ -1,4 +1,3 @@
-# Global-Inflation-Analysis
 # 🌍 Global Inflation and Cost of Living Analysis
 ## 📌 Introduction
 The Global Inflation and Cost of Living Analysis project explores inflation rates and cost-of-living patterns across countries and regions.
@@ -52,4 +51,9 @@ Findings:  The comparison indicates that Nigeria faces a much stronger inflation
 Method: Cleaned Dataset, Pivot Table Analysis and Combo Chart
 
 Findings:      The analysis shows that inflation and cost of living vary across regions. Some regions record relatively high average inflation but do not necessarily have the highest cost of living index e.g. Sub - saharan Africa has 15.54% inflation rate with average cost of living index of 45.5% .  This indicates that a high current inflation does not automatically mean that a region has the highest overall cost of living.  Regional differences may be influenced by factors such as housing costs, food prices,  transportation costs, purchasing power and other  economic condition. 																			
-  
+## Analysis of Steps
+### Cleaning of Dataset
+### Creating Pivot Table
+### Performing Pivot Analysis
+### Performing Correlation Analysis
+### Creating Charts and Scatter Plot
