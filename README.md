@@ -1,3 +1,5 @@
+<img width="1182" height="660" alt="Image" src="https://github.com/user-attachments/assets/5a091d3a-12dc-4ddc-a131-3f7c33761c9c" />
+
 # 🌍 Global Inflation and Cost of Living Analysis
 ## 📌 Introduction
 The Global Inflation and Cost of Living Analysis project explores inflation rates and cost-of-living patterns across countries and regions.
